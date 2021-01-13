@@ -1,0 +1,1 @@
+kubeadm join 192.168.50.10:6443 --token btz32j.plosxm7zu18ohwne     --discovery-token-ca-cert-hash sha256:7d41086707d93a536b249f5c27f60ad379b0d897202085bd983dd2e567fdce57 
